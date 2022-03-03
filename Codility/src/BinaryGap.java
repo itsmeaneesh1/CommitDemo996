@@ -4,7 +4,7 @@ public class BinaryGap
 {
 	public int solution(int N)
 	{
-		System.out.println("New LINE");
+		System.out.println("New LINE"); 
 		 String binaryString = Integer.toBinaryString(N);
 		   System.out.println(binaryString);
 		    int longestBinaryGap = 0;
